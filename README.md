@@ -29,7 +29,7 @@ pip install PyQt5
 ## Run the application:
 
 ```
-python main.py
+python3 miniproject_gui.py
 ```
 
 # Interactive GUI:
